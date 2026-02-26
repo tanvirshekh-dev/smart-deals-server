@@ -18,5 +18,5 @@
 
 /**
  * 
- * 1. Generate token
+ * 1. Generate token using jwt = json web token
  */
