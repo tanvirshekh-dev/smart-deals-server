@@ -180,3 +180,5 @@ run().catch(console.dir);
 app.listen(port, () => {
   console.log(`smart server is running on port: ${port}`);
 });
+
+// make the backend apis using mongodb database and connect to the server using api's
